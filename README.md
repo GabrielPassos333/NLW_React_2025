@@ -34,7 +34,7 @@ Siga estas instruções para executar o projeto localmente:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nlw-connect-projeto.git
+git clone https://github.com/GabrielPassos333/NLW_React_2025
 cd nlw-connect-projeto
 ```
 
@@ -49,6 +49,8 @@ npm install
 ```bash
 npm run dev
 ```
+
+OBS: Para rodar a API, é necessário executar o servidor localmente. Para isso, siga as instruções no repositório [nlw-connect-api](https://github.com/rocketseat-education/nlw-connect-node). Este repositório contém a API e os bancos de dados estão sendo rodados através do DOCKER.
 
 Abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver o resultado.
 
